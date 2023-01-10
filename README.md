@@ -13,3 +13,7 @@ So they moved to connecting via App Center directly to GitHub.
 Now, PR requests do not get completed and therefore, workflows stop/slow down until those can be resolved. 
 
 Transfer App and attempting once more to initiate a PR Check
+
+This ended up working just fine - no problem to report. We're unable to replicate the behavior reported. 
+
+![image](https://user-images.githubusercontent.com/122405924/211682128-0792a15a-eb49-4bd6-9bc3-0ce67de61982.png)

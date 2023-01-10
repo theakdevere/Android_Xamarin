@@ -11,3 +11,5 @@ I don't know how to break the connection with GitHub, but in our test case, that
 Later, user tries to reconenct but it only creates a new app if initiated via GitHub.
 So they moved to connecting via App Center directly to GitHub.
 Now, PR requests do not get completed and therefore, workflows stop/slow down until those can be resolved. 
+
+Transfer App and attempting once more to initiate a PR Check
